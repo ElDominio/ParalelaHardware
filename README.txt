@@ -5,8 +5,9 @@
 additional outputs for boost/fuel pumps/idle/etc
 onboard CAN
 Hall or external VR conditioner
+USB-C connection
 
-No official firmware for this board
+No official firmware for this board (for now)
 
 CPU pinout inside "Reference" folder
 
