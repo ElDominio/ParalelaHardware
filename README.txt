@@ -6,6 +6,10 @@ additional outputs for boost/fuel pumps/idle/etc
 onboard CAN
 Hall or external VR conditioner
 
+No official firmware for this board
+
+CPU pinout inside "Reference" folder
+
 
 How to open EasyEDA Project File：
 
