@@ -1,5 +1,13 @@
-            
-How to use：
+4-channel slim ECU with APM32F407VGT6, designed to use RusEFI
+
+4 injection channel
+4 ignition channels
+additional outputs for boost/fuel pumps/idle/etc
+onboard CAN
+Hall or external VR conditioner
+
+
+How to open EasyEDA Project File：
 
 At editor, open the document via: Top menu - File - Open - EasyEDA... , and select the json file, then open it at the editor, you can save it into a project.
 
